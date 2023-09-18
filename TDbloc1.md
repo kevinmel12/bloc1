@@ -9,11 +9,10 @@ méthodes**
 
 |GET|POST|
 |---|----|
-|Demander des données au serveur, (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête|La méthode POST permet d'envoyer les données au serveur|
+|Demander des données au serveur, (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête)|La méthode POST permet d'envoyer les données au serveur|
+|GET est moins sécurisé que POST car comme dis juste avant les données sont visibles dans l'URL|La méthode POST permet d'envoyer les données au serveur|
 
-* Demander des données au serveur (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête) * 
-* GET est moins sécurisé que POST car comme dis juste avant les données sont visibles dans l'URL  *
-* La méthode POST permet d'envoyer les données au serveur * 
+
 
 # 1 POST # 
 
