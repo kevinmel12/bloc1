@@ -5,7 +5,7 @@
 
 
 **Bold** 2. Utilisez les exemples précédents pour effectuer un comparatif (tableau avec critères) entre ces 2
-méthodes **Bold**
+méthodes 
 
 # Heading 1 GET # Heading 1 
 * List Demander des données au serveur (qu'on peut apprecevoir danss l'url en tant que paramètre de requête) * List
