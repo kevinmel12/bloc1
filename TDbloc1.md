@@ -14,10 +14,4 @@ méthodes**
 |En général, les requêtes GET sont considérées comme idempotentes, ce qui signifie que l'exécution multiple de la même requête n'a pas d'effet différent.|Les requêtes POST ne sont pas nécessairement idempotentes, car elles peuvent entraîner des modifications de l'état du serveur à chaque exécution.|
 
 
-# 1 POST # 
-
-* La méthode POST permet d'envoyer les données au serveur * 
-* POST plus sécurisé car les données ne sont pas visibles dans l'URL
-
-* 
-Demander des données au serveur, (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête
+**3. Expliquez précisément en quoi le protocole http est extensible. **
