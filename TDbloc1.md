@@ -9,7 +9,7 @@ méthodes**
 
 # GET # 
 * Demander des données au serveur (qu'on peut apprecevoir danss l'url en tant que paramètre de requête) * 
-* List
+* Get est moins sécurisé  *
 * List
 
 # 1 POST # 
