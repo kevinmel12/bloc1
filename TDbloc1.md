@@ -8,11 +8,11 @@
 méthodes**
 
 # GET # 
-* Demander des données au serveur (qu'on peut apprecevoir danss l'url en tant que paramètre de requête) * 
-* Get est moins sécurisé  *
-* List
+* Demander des données au serveur (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête) * 
+* GET est moins sécurisé que POST car comme dis juste avant les données sont visibles dans l'URL  *
+* La méthode POST permet d'envoyer les données au serveur * 
 
 # 1 POST # 
 
-* List La méthode POST permet d'envoyer les données au serveur * List
-* List  * List 
+* La méthode POST permet d'envoyer les données au serveur * 
+* POST plus sécurisé car les données ne sont pas visibles dans l'URL 
