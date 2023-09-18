@@ -14,4 +14,4 @@ méthodes**
 |En général, les requêtes GET sont considérées comme idempotentes, ce qui signifie que l'exécution multiple de la même requête n'a pas d'effet différent.|Les requêtes POST ne sont pas nécessairement idempotentes, car elles peuvent entraîner des modifications de l'état du serveur à chaque exécution.|
 
 
-**3. Expliquez précisément en quoi le protocole http est extensible. **
+**3. Expliquez précisément en quoi le protocole http est extensible.**
