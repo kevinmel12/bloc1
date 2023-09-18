@@ -7,12 +7,12 @@
 **2. Utilisez les exemples précédents pour effectuer un comparatif (tableau avec critères) entre ces 2
 méthodes**
 
-# Heading 1 GET # Heading 1 
+# GET # 
 * Demander des données au serveur (qu'on peut apprecevoir danss l'url en tant que paramètre de requête) * 
 * List
 * List
 
-# Heading 1 POST # Heading 1 
+# 1 POST #  
 
 * List La méthode POST permet d'envoyer les données au serveur * List
 * List  * List 
