@@ -10,8 +10,8 @@ méthodes**
 |GET|POST|
 |---|----|
 |Demander des données au serveur, (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête)|La méthode POST permet d'envoyer les données au serveur|
-|GET est moins sécurisé que POST car comme dis juste avant les données sont visibles dans l'URL|La méthode POST permet d'envoyer les données au serveur|
-
+|GET est moins sécurisé que POST car comme dis juste avant les données sont visibles dans l'URL|La méthode POST permet d'envoyer les données au serveur.|
+|En général, les requêtes GET sont considérées comme idempotentes, ce qui signifie que l'exécution multiple de la même requête n'a pas d'effet différent.|
 
 
 # 1 POST # 
