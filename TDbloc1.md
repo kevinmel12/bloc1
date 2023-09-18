@@ -8,7 +8,7 @@
 méthodes**
 
 # Heading 1 GET # Heading 1 
-* List Demander des données au serveur (qu'on peut apprecevoir danss l'url en tant que paramètre de requête) * List
+*  Demander des données au serveur (qu'on peut apprecevoir danss l'url en tant que paramètre de requête) * 
 * List
 * List
 
