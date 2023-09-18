@@ -7,7 +7,7 @@
 **2. Utilisez les exemples précédents pour effectuer un comparatif (tableau avec critères) entre ces 2
 méthodes**
 
-|GEGETGETGETGE| PPOSTPOSTPOSTOSj|
+|GET|POST|
 | ------------ | --------------- |
 * Demander des données au serveur (qu'on peut apprecevoir danss l'URL en tant que paramètre de requête) * 
 * GET est moins sécurisé que POST car comme dis juste avant les données sont visibles dans l'URL  *
