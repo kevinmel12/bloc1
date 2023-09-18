@@ -1,7 +1,7 @@
 **1. Différences entre les méthodes http GET et POST**
 
-* List Une méthode http GET permet d'accéder à une ressources précise. * 
-* List Cependant la méthode Post permet d'envoyer des données qui est généralement indiqué par le titre *Content-Type*. *
+* Une méthode http GET permet d'accéder à une ressources précise. * 
+*  Cependant la méthode Post permet d'envoyer des données qui est généralement indiqué par le titre *Content-Type*. *
 
 
 **2. Utilisez les exemples précédents pour effectuer un comparatif (tableau avec critères) entre ces 2
